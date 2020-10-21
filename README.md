@@ -4,7 +4,7 @@
 
 <p align = "center"> Aqui você irá encontrar os repositórios dos <strong>Bootcamps</strong> e <strong>Cursos</strong> que estarei fazendo durante essa transição de carreira, nada extraordinário, mas serão meus primeiros passos nesse universo chamado tecnologia. </p>
 
-<h2 align = "center"> 🌎 "Quanto mais eu sei, mas eu sou" 🧠 </h2>
+<h2 align = "center"> 🌎 "Quanto mais eu sei mais eu sou." 🧠 </h2>
 
 <p align = "center">
 
