@@ -1,4 +1,4 @@
-<h1 align = "center"> Bem- vindo ao meu repositório! 🖖 </h1>
+<h1 align = "center"> Bem-vindo ao meu repositório! 🖖 </h1>
 
 <p align = "center"> Meu nome é Igor Martins, sou do Brasil  e atualmente estou migrando para área de tecnologia. 🛩 </p>
 
